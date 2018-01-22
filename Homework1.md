@@ -65,3 +65,7 @@ function f=rmatrix(A, S, Z);
     f = A + U;
 return;
 ```
+
+
+### Part B - Spike Train Analysis and Tuning Curves
+
