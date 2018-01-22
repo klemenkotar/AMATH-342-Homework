@@ -51,7 +51,7 @@ ylabel("neurons on");
 ```
 Executing the above code generates this graph:
 
-![Alt Text](AMATH-342-Homework/number_of_neurons_on_vs_time.png)
+(AMATH-342-Homework/number_of_neurons_on_vs_time.png)
 
 
 #### Exercise 5.1
