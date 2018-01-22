@@ -51,7 +51,7 @@ ylabel("neurons on");
 ```
 Executing the above code generates this graph:
 
-![GitHub Logo](/AMATH-342-Homework/number_of_neurons_on_vs_time.png)
+![GitHub Logo](../number_of_neurons_on_vs_time.png)
 Format: ![Alt Text](url)
 
 
