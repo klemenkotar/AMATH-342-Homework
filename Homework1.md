@@ -49,6 +49,10 @@ title("number of neurons on vs. time");
 xlabel("time");
 ylabel("neurons on");
 ```
+Executing the above program produces the following graph:
+
+
+![alt text](number_of_neurons_on_vs_time.png)
 
 
 #### Exercise 5.1
