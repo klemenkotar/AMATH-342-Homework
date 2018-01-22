@@ -50,7 +50,9 @@ xlabel("time");
 ylabel("neurons on");
 ```
 Executing the above code generates this graph:
-![alt text](AMATH-342-Homework/Number\ of\ Neurons\ On\ vs.\ Time.png)
+
+![GitHub Logo](/AMATH-342-Homework/number_of_neurons_on_vs_time.png)
+Format: ![Alt Text](url)
 
 
 #### Exercise 5.1
