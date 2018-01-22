@@ -13,7 +13,7 @@ INTEGRATOR STAGE 2: Write a code **integrator_2.m** which:
 and computes as its answer the first time that the cumulative sum of the signal crosses the threshold.
 
 ```
-clear all
+clear all;
 
 t=[1:10];
 signal_vector = sin(t);
@@ -60,7 +60,7 @@ Executing the above program produces the following graph:
 Write a function m-file **rmatrix.m** which takes as arguments 3 matrices A, S, Z, and returns the matrix B = A + S. ∗ Z.
 
 ```
-function f=rmatrix(A, S, Z);
+function f=rmatrix(A, S, Z)
     U = S .* Z;
     f = A + U;
 return;
