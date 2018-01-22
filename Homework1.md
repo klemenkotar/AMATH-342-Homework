@@ -50,7 +50,7 @@ xlabel("time");
 ylabel("neurons on");
 ```
 Executing the above code generates this graph:
-![Number of Neurons on vs. Time](Number\ of\ Neurons\ on\ vs.\ Time.png)
+![Number of Neurons on vs. Time](AMATH-342-Homework/Number of Neurons On vs. Time.png)
 Format: ![Alt Text](url)
 
 
